@@ -8,18 +8,16 @@ It also features dashboards for all roles and certificate generation upon course
 ---
 
 ## 🚀 Demo
-
-- 📽️ **Demo Video**: [Watch on YouTube](https://youtu.be/MQhVBS6kaYE)
 - 🌐 **Live App**: Deploying soon...
 
 ---
 
 ## 👥 Team Members
 
-- 🎨 **Ingilala Deepika** – Login Form & Register Form  
-- 🔧 **Maganti Praveen Sai** – Backend Development  
-- 📚 **Dongala Anjaneya Swamy** – Admin & Student Dashboards, Course Player  
-- 📘 **Polavarapu Eswar** – Student Dashboard & Course Assignment
+- 🎨 **Chalamala Sunitha** – Login Form & Register Form  
+- 🔧 **Ganchi Ravitha** – Backend Development  
+- 📚 **Margani Geethanjali** – Admin & Student Dashboards, Course Player  
+- 📘 **Muppana Pavan Durga Manikanteswara Rao** – Student Dashboard & Course Assignment
 
 ---
 
