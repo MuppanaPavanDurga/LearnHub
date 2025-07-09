@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 LearnHub – MERN Stack Online Learning Platform
 
 LearnHub is a full-featured online learning platform built with the **MERN** stack (MongoDB, Express.js, React.js, Node.js). 
@@ -31,3 +32,6 @@ It also features dashboards for all roles and certificate generation upon course
 | Database     | MongoDB (Mongoose)                  |
 | Auth         | JWT (JSON Web Tokens), Role-based   |
 
+=======
+# LearnHub
+>>>>>>> 1691534bc4e549aad05594d700f1dde47fa6618b
