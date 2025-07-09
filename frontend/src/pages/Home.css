@@ -1,0 +1,100 @@
+.landing-hero {
+  background-image: url('../assets/unnamed.png');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  position: relative;
+}
+
+.overlay {
+  background: rgba(0, 0, 0, 0.5);
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.landing-content {
+  color: #fff;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.7);
+}
+
+/* Login and Register Page */
+.auth-bg {
+  background: url("../assets/unnamed.jpg") center/cover no-repeat;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 8vw;
+  background-color: #f4f4f4;
+}
+
+/* ========== Login Card Styling ========== */
+.login-card {
+  background-color: #fff;
+  padding: 40px 32px;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+  width: 100%;
+  max-width: 400px;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.login-card h3 {
+  text-align: center;
+  font-weight: 600;
+  margin-bottom: 24px;
+  color: #333;
+}
+
+.login-card .form-label {
+  font-weight: 500;
+  color: #333;
+}
+
+.login-card .form-control {
+  padding: 12px;
+  font-size: 15px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.login-card .btn {
+  background-color: #0b63f5;
+  border: none;
+  border-radius: 8px;
+  padding: 12px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.login-card .btn:hover {
+  background-color: #084ccc;
+}
+
+.login-card a {
+  font-size: 14px;
+  color: #0b63f5;
+  text-decoration: none;
+}
+
+.login-card a:hover {
+  text-decoration: underline;
+}
+
+.login-card .text-end {
+  font-size: 14px;
+}
+
+@media (max-width: 768px) {
+  .auth-bg {
+    justify-content: center;
+    padding: 20px;
+    background-position: right;
+  }
+
+  .login-card {
+    margin: 0;
+  }
+}
